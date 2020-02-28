@@ -2,7 +2,7 @@
     "type": "mech",
     "name": "Reaver",
     "description": "Heavy assault gunship, designed for air-ground support actions. Armed with heavy A100 minigun at the cost of weak construction and mining projectors. While 'Reaver' is gunship's official name, people often call it 'Black Pearl' or 'Flying Dutchman'. And now this ship is literally associated with legends of space pirates.",
-    "speed": 0.4,
+    "speed": 2,
     "maxVelocity": 2.4,
     "flying":true,
     "drag": 0.08,
