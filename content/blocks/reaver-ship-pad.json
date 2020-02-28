@@ -6,10 +6,7 @@
     "size": 3,
     "produceTime": 1750,
     "requirements": [
-        { "item": "lead", "amount": 2500},
-        { "item": "titanium", "amount": 850},
-        { "item": "graphite", "amount": 600},
-        { "item": "plastanium", "amount": 475}
+        { "item": "lead", "amount": 0}
     ],
     "consumes": {
          "power": 3.25,
