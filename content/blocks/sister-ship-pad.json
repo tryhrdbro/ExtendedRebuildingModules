@@ -4,10 +4,9 @@
     "name": "Sister Ship Pad",
     "description": "Equivalently exchange Dart for a Sister.",
     "size": 2,
-    "produceTime": 1500,
+    "produceTime": 0,
     "requirements": [
-        { "item": "copper", "amount": 175},
-        { "item": "lead", "amount": 125}
+        { "item": "copper", "amount": 0}
     ],
     "category": "upgrade",
     "research": "dart-mech-pad"
