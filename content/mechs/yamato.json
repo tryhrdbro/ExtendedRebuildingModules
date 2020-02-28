@@ -1,34 +1,34 @@
 {
     "name": "yamato"
-    "description" "510 years of inhuman experiments on a Meltdown turrets led us to this pinnacle of spacecraft. Armed with amplified version of Meltdown, that does not overheat, comes with pre-installed internal impact reactor, that fuels the Meltdown onboard. And best part is that this abomination can actually move!"
-    "speed": 2
-    "maxVelocity": 2.4
-    "flying":true
-    "drag": 0.3
-    "engineSize": 6
-    "engineOffset": 15
-    "hitsize": 20
-    "mass": 10
-	"turnCursor": true
-    "health": 50000000000000000000
-    "itemCapacity": 600
-    "buildpower": 0.6
-    "cellTrnsY": 1
-    "engineColor": "ff7f4c"
-    "weaponOffsetY": 0
-    "baseRotateSpeed": 0.06
-    "rotatespeed": 0.01
+    "description" "510 years of inhuman experiments on a Meltdown turrets led us to this pinnacle of spacecraft. Armed with amplified version of Meltdown, that does not overheat, comes with pre-installed internal impact reactor, that fuels the Meltdown onboard. And best part is that this abomination can actually move!",
+    "speed": 2,.
+    "maxVelocity": 2.4,
+    "flying":true,
+    "drag": 0.3,
+    "engineSize": 6,
+    "engineOffset": 15,
+    "hitsize": 20,
+    "mass": 10,
+	"turnCursor": true,
+    "health": 50000000000000000000,
+    "itemCapacity": 600,
+    "buildpower": 0.6,
+    "cellTrnsY": 1,
+    "engineColor": "ff7f4c",
+    "weaponOffsetY": 0,
+    "baseRotateSpeed": 0.06,
+    "rotatespeed": 0.01,
     "weapon":{
-        "name": "meltdown"
-        "length":15.0
-        "width":0.0
-        "reload":4
-        "shots":1
+        "name": "meltdown",
+        "length":15.0,
+        "width":0.0,
+        "reload":4,
+        "shots":1,
         "spacing": 0,
-        "alternate": true
-		"ignoreRotation": false
-        "ejectEffect": "none"
+        "alternate": true,
+		"ignoreRotation": false,
+        "ejectEffect": "none",
         "bullet": "meltdownLaser",
-        "shootSound": "laserbig"
+        "shootSound": "laserbig",
     }
 }
