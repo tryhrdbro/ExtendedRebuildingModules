@@ -1,6 +1,6 @@
 {
     "type": "MechPad",
-    "mech": "yamato",
+   "mech": "yamato",
     "name": "Yamato Construction Facility",
     "description": "MELTDOWN SHIP MELTDOWN SHIP",
     "size": 4,
