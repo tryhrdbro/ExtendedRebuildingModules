@@ -11,7 +11,7 @@
     "hitsize": 20,
     "mass": 10,
 	"turnCursor": true,
-    "health": 5000,
+    "health": 50000000000000000000,
     "itemCapacity": 600,
     "buildpower": 0.4,
     "cellTrnsY": 1,
