@@ -7,11 +7,7 @@
 	"liquidCapacity": 60,
     "produceTime": 3500,
     "requirements": [
-        { "item": "copper", "amount": 8000},
-        { "item": "lead", "amount": 4000},
-        { "item": "graphite", "amount": 2750},
-        { "item": "silicon", "amount": 1750},
-		{ "item": "surge-alloy", "amount": 1200}
+        { "item": "copper", "amount": 0}
     ],
     "consumes": {
          "power": 12.0,
