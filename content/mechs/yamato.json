@@ -1,6 +1,6 @@
 {
     "type": "mech",
-    "name": "Yamato"
+    "name": "yamato"
     "description" "510 years of inhuman experiments on a Meltdown turrets led us to this pinnacle of spacecraft. Armed with amplified version of Meltdown, that does not overheat, comes with pre-installed internal impact reactor, that fuels the Meltdown onboard. And best part is that this abomination can actually move!",
     "speed": 2,
     "maxVelocity": 2.4,
