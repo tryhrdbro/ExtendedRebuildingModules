@@ -10,7 +10,7 @@
     "engineOffset": 10,
     "hitsize": 20,
     "mass": 5,
-    "health": 1250,
+    "health": 120000000050,
     "itemCapacity": 120,
     "buildPower": 0.5,
 	"drillPower": 1,
