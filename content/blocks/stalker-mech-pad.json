@@ -4,12 +4,9 @@
     "name": "Stalker Mech Drop Point",
     "description": "Send a request to the orbital mothership to send totally legal model of Stalker Mech.",
     "size": 2,
-    "produceTime": 1500,
+    "produceTime": 0,
     "requirements": [
-        { "item": "copper", "amount": 275},
-        { "item": "lead", "amount": 450},
-		{ "item": "graphite", "amount": 250},
-		{ "item": "silicon", "amount": 100}
+        { "item": "copper", "amount": 0}
     ],
 	"consumes": {
          "power": 1.4,
